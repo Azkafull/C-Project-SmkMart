@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dir project\\c#\\azka project 1\\SMKmart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\kasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:kasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|d:\\dir project\\c#\\azka project 1\\smkmart\\riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:riwayattransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\lihatbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:lihatbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\aktivitaskasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:aktivitaskasir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\aktivitasadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:aktivitasadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\aktivitasgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:aktivitasgudang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\laporanaktivitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:laporanaktivitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|d:\\dir project\\c#\\azka project 1\\smkmart\\laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:laporanpenjualan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\kelolabarng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:kelolabarng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\kelolaakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:kelolaakun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|D:\\dir project\\c#\\azka project 1\\SMKmart\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A74208CE-E506-41EC-8678-EC6CCA9C099E}|SMKmart.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T07:47:24.909Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Admin.cs",
+              "RelativeDocumentMoniker": "Admin.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Admin.cs [Design]",
+              "RelativeToolTip": "Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T08:41:20.148Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KelolaAkun.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\KelolaAkun.cs",
+              "RelativeDocumentMoniker": "KelolaAkun.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\KelolaAkun.cs [Design]",
+              "RelativeToolTip": "KelolaAkun.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T10:40:16.656Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KelolaBarng.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\KelolaBarng.cs",
+              "RelativeDocumentMoniker": "KelolaBarng.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\KelolaBarng.cs [Design]",
+              "RelativeToolTip": "KelolaBarng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T12:49:23.619Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LaporanPenjualan.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LaporanPenjualan.cs",
+              "RelativeDocumentMoniker": "LaporanPenjualan.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LaporanPenjualan.cs [Design]",
+              "RelativeToolTip": "LaporanPenjualan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T15:51:58.743Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaporanAktivitas.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LaporanAktivitas.cs",
+              "RelativeDocumentMoniker": "LaporanAktivitas.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LaporanAktivitas.cs [Design]",
+              "RelativeToolTip": "LaporanAktivitas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T14:23:50.942Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AktivitasGudang.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasGudang.cs",
+              "RelativeDocumentMoniker": "AktivitasGudang.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasGudang.cs [Design]",
+              "RelativeToolTip": "AktivitasGudang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T22:45:29.056Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AktivitasAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasAdmin.cs",
+              "RelativeDocumentMoniker": "AktivitasAdmin.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasAdmin.cs [Design]",
+              "RelativeToolTip": "AktivitasAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T22:53:25.657Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AktivitasKasir.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasKasir.cs",
+              "RelativeDocumentMoniker": "AktivitasKasir.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\AktivitasKasir.cs [Design]",
+              "RelativeToolTip": "AktivitasKasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T22:57:12.473Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kasir.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Kasir.cs",
+              "RelativeDocumentMoniker": "Kasir.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\Kasir.cs [Design]",
+              "RelativeToolTip": "Kasir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T22:30:05.78Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LihatBarang.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LihatBarang.cs",
+              "RelativeDocumentMoniker": "LihatBarang.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\LihatBarang.cs [Design]",
+              "RelativeToolTip": "LihatBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T03:31:41.751Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RiwayatTransaksi.cs [Design]",
+              "DocumentMoniker": "D:\\dir project\\c#\\azka project 1\\SMKmart\\RiwayatTransaksi.cs",
+              "RelativeDocumentMoniker": "RiwayatTransaksi.cs",
+              "ToolTip": "D:\\dir project\\c#\\azka project 1\\SMKmart\\RiwayatTransaksi.cs [Design]",
+              "RelativeToolTip": "RiwayatTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T06:46:07.884Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+﻿namespace SMKmart
+{
+    partial class RiwayatTransaksi
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RiwayatTransaksi));
+            panel1 = new Panel();
+            button1 = new Button();
+            pictureBox4 = new PictureBox();
+            dataGridView1 = new DataGridView();
+            Tanggal = new DataGridViewTextBoxColumn();
+            Kode = new DataGridViewTextBoxColumn();
+            NamaBarang = new DataGridViewTextBoxColumn();
+            Harga = new DataGridViewTextBoxColumn();
+            Jumlah = new DataGridViewTextBoxColumn();
+            Subtotal = new DataGridViewTextBoxColumn();
+            Total = new DataGridViewTextBoxColumn();
+            panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            SuspendLayout();
+            // 
+            // panel1
+            // 
+            panel1.BackColor = Color.FromArgb(0, 0, 64);
+            panel1.Controls.Add(button1);
+            panel1.Controls.Add(pictureBox4);
+            panel1.Dock = DockStyle.Left;
+            panel1.Location = new Point(0, 0);
+            panel1.Name = "panel1";
+            panel1.Size = new Size(285, 553);
+            panel1.TabIndex = 0;
+            // 
+            // button1
+            // 
+            button1.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            button1.BackColor = Color.Yellow;
+            button1.FlatStyle = FlatStyle.Popup;
+            button1.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(12, 512);
+            button1.Name = "button1";
+            button1.Size = new Size(258, 29);
+            button1.TabIndex = 13;
+            button1.Text = "KEMBALI";
+            button1.TextAlign = ContentAlignment.BottomCenter;
+            button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
+            // 
+            // pictureBox4
+            // 
+            pictureBox4.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
+            pictureBox4.Location = new Point(12, 12);
+            pictureBox4.Name = "pictureBox4";
+            pictureBox4.Size = new Size(258, 234);
+            pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox4.TabIndex = 12;
+            pictureBox4.TabStop = false;
+            // 
+            // dataGridView1
+            // 
+            dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Tanggal, Kode, NamaBarang, Harga, Jumlah, Subtotal, Total });
+            dataGridView1.Location = new Point(291, 12);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.Size = new Size(879, 529);
+            dataGridView1.TabIndex = 1;
+            // 
+            // Tanggal
+            // 
+            Tanggal.HeaderText = "Tanggal";
+            Tanggal.MinimumWidth = 6;
+            Tanggal.Name = "Tanggal";
+            // 
+            // Kode
+            // 
+            Kode.HeaderText = "Kode";
+            Kode.MinimumWidth = 6;
+            Kode.Name = "Kode";
+            // 
+            // NamaBarang
+            // 
+            NamaBarang.HeaderText = "Nama Barang";
+            NamaBarang.MinimumWidth = 6;
+            NamaBarang.Name = "NamaBarang";
+            // 
+            // Harga
+            // 
+            Harga.HeaderText = "Harga";
+            Harga.MinimumWidth = 6;
+            Harga.Name = "Harga";
+            // 
+            // Jumlah
+            // 
+            Jumlah.HeaderText = "Jumlah";
+            Jumlah.MinimumWidth = 6;
+            Jumlah.Name = "Jumlah";
+            // 
+            // Subtotal
+            // 
+            Subtotal.HeaderText = "Subtotal";
+            Subtotal.MinimumWidth = 6;
+            Subtotal.Name = "Subtotal";
+            // 
+            // Total
+            // 
+            Total.HeaderText = "Total";
+            Total.MinimumWidth = 6;
+            Total.Name = "Total";
+            // 
+            // RiwayatTransaksi
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Navy;
+            ClientSize = new Size(1182, 553);
+            Controls.Add(dataGridView1);
+            Controls.Add(panel1);
+            Name = "RiwayatTransaksi";
+            Text = "RiwayatTransaksi";
+            WindowState = FormWindowState.Maximized;
+            FormClosed += RiwayatTransaksi_FormClosed;
+            panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox4).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ResumeLayout(false);
+        }
+
+        #endregion
+
+        private Panel panel1;
+        private PictureBox pictureBox4;
+        private Button button1;
+        private DataGridView dataGridView1;
+        private DataGridViewTextBoxColumn Tanggal;
+        private DataGridViewTextBoxColumn Kode;
+        private DataGridViewTextBoxColumn NamaBarang;
+        private DataGridViewTextBoxColumn Harga;
+        private DataGridViewTextBoxColumn Jumlah;
+        private DataGridViewTextBoxColumn Subtotal;
+        private DataGridViewTextBoxColumn Total;
+    }
+}
